@@ -1,0 +1,124 @@
+@media (max-width:758px){
+/*navbar*/
+
+.All_Nav {
+    height: 190px;
+    padding-top: 4%;
+}
+.Navbar{
+    display: flex;
+    flex-direction: column;
+}
+    .Navbar a {
+        font-size: 15px;
+        margin-bottom: 4%;
+        text-align: center;
+    }
+.Logo .top_Logo{
+    margin-top: -156px;
+    width: 35px;
+    height: 35px;
+    margin-left: -100px;
+    margin-bottom: 131px;
+}
+/*header*/
+.Image_header .style-logo-text{
+  font-size: 19PX;  
+  padding-top: 37px;
+}
+.Image_header p{
+    font-size: 14px;
+    margin-right: 49px;
+    margin-left: 49px;
+    font-weight: normal;
+}
+.tophead, .Thestage h2, .tipsection h3{
+    font-size: 19px;
+}
+.sectionAbout p{
+    font-size: 13px;
+    margin-left: 49px;
+    margin-right: 49px;
+}
+.Roads .imag {
+    width: 53%;
+    margin-left: 24%;
+    padding-top: 43px;
+}
+.Symptoms h2 {
+    font-size: 19px;
+}
+.lungs {
+    height: 116px;
+    margin-left: -11px;
+}
+.virus-info{
+    width: 100%;
+    position: absolute;
+    left: 0px; 
+    top: 120px; 
+}
+.cough{
+    float: left;
+    position: absolute;
+    left: 130px;
+}
+.cough-img{
+    height: 116px;
+}
+.virussymtoms{
+    width: 100%;
+    position: absolute;
+    left: 0px; 
+    top: 180px;
+}
+.Thestage {
+    padding: 70px 0;
+    background-color: #f1f1f1;
+    min-height: 852px;
+    margin-top: 104px;
+}
+.imagestage .image {
+    display: none;
+}
+.spreadviurs{
+    float: left;
+    width: 100%;
+    padding: 20px;
+    margin-left: 0px;
+    margin-top: -104px;
+}
+.spreadstage {
+    margin-bottom: 15px;
+}
+.wt-tisp {
+    margin-bottom: 37px;
+    margin-left: 48px;
+    display: block;
+}
+.tips-img{
+    margin-left: 150px;
+}
+.tips-img img {
+    width: 80px;
+    height: 80px;
+}
+.text-tips{
+    margin-top: 20px;
+    margin-left: 22px;
+    padding: 0%;
+    text-align: center;
+}
+.footer ul {
+    margin-top: 10px;
+    margin-left: 20px;
+}
+.footer ul li {
+    list-style: none;
+    margin-right: 14px;
+}
+.footer ul li a {
+    font-size: 14px;
+    margin-right: 20px;
+}
+}
